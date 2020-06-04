@@ -19,7 +19,6 @@
             "timestamp": "@timestamp",
             "display_timestamp" : "@timestamp",
             "hostname": "container_name",
-            "program": "command",
             "message": "message"
         }
       }
